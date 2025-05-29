@@ -1,6 +1,6 @@
 # SP network implementation + KPA
 
-**DISCLAIMER:** This is project is for a homework assignment of my uni cryptography class.
+**NOTE:** This is project is for a homework assignment of my uni cryptography class.
 
 This project is an implementation of a 64-bit Substitution-Permutation network written in C#. It also features known plaintext attack functionalities for determining the keys that were used for encrypting message-ciphertext pairs with SP nets (for two rounds max).
 
